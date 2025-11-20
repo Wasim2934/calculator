@@ -21,5 +21,5 @@ This mini project performs basic arithmetic operations like addition, subtractio
 
 - JavaScript
 
-  ## Demo
+## Demo
   https://wasim2934.github.io/calculator/
