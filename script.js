@@ -37,6 +37,6 @@ buttons.forEach(btn => {
     if (operators.includes(val) && operators.includes(lastChar))
         return;
 
-    display.value += val;2+
+    display.value += val;
   });
 });
