@@ -16,5 +16,5 @@ This mini project performs basic arithmetic operations like addition, subtractio
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript 
 
